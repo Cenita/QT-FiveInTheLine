@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>qipanbg.jpg</file>
+        <file>baiqi1.png</file>
+        <file>heiqi1.png</file>
+        <file>miaozhun.png</file>
+        <file>point.png</file>
+        <file>big_baiqi.png</file>
+        <file>big_heiqi.png</file>
+        <file>tiaofu.png</file>
+        <file>Qqipan2.jpg</file>
+        <file>start.png</file>
+        <file>start2.png</file>
+        <file>start1.png</file>
+        <file>start3.png</file>
+        <file>huiqi1.png</file>
+        <file>huiqi2.png</file>
+        <file>huiqi3.png</file>
+        <file>bendi.png</file>
+        <file>renji.png</file>
+        <file>wangluo.png</file>
+        <file>bendi_push.png</file>
+        <file>renji_push.png</file>
+        <file>wangluo_push.png</file>
+        <file>home-1.png</file>
+        <file>home-2.png</file>
+        <file>home-3.png</file>
+        <file>quit-1.png</file>
+        <file>quit-2.png</file>
+        <file>quit-3.png</file>
+        <file>ready-1.png</file>
+        <file>ready-2.png</file>
+        <file>ready-3.png</file>
+        <file>topic.png</file>
+        <file>qipanss.png</file>
+        <file>renji_jiandan1.png</file>
+        <file>renji_jiandan2.png</file>
+        <file>renji_putong1.png</file>
+        <file>renji_putong2.png</file>
+        <file>shownumber1.png</file>
+        <file>shownumber2.png</file>
+        <file>shownumber3.png</file>
+        <file>hidenumber1.png</file>
+        <file>hidenumber2.png</file>
+    </qresource>
+</RCC>
